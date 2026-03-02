@@ -8,6 +8,7 @@ I’m a Scrum Master and Agile Delivery Lead. I don’t write production code in
 ## What it includes
 - Node/Express service with a `/health` endpoint
 - Docker support for repeatable local setup
+- /health returns a simple JSON response for uptime checks and local validation
 
 ## Run locally (Node)
 ```bash
