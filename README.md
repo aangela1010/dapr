@@ -1,7 +1,5 @@
 # dapr
 
-# dapr
-
 Tiny Node/Express service with a `/health` endpoint, packaged with Docker.
 
 ## Why this repo exists
@@ -13,7 +11,7 @@ I’m a Scrum Master and Agile Delivery Lead. I don’t write production code in
 
 ## Run locally (Node)
 ```bash
+```
 npm install
 npm start
-curl http://localhost:3000/health
 curl http://localhost:3000/health
