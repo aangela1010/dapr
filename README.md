@@ -11,16 +11,15 @@ I’m a Scrum Master and Agile Delivery Lead. I don’t write production code in
 
 ## Run locally (Node)
 ```bash
-```
 npm install
 npm start
 curl http://localhost:3000/health
-
-```md
 ```
+
 ## Run with Docker
 ```bash
-```
+
 docker build -t dapr .
 docker run -p 3000:3000 dapr
 curl http://localhost:3000/health
+```
