@@ -18,7 +18,6 @@ curl http://localhost:3000/health
 
 ## Run with Docker
 ```bash
-
 docker build -t dapr .
 docker run -p 3000:3000 dapr
 curl http://localhost:3000/health
